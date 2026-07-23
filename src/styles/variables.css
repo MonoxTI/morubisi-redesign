@@ -1,0 +1,22 @@
+:root {
+  --font-display: "Space Grotesk", sans-serif;
+  --font-body: "Inter", sans-serif;
+  --font-mono: "IBM Plex Mono", monospace;
+
+  /* Tonal ladder, darkest to lightest:
+     ink (page base) < surface (alternating section bands)
+     < panel (elevated boxes/cards) < panel-light (hover/highlight) */
+  --ink: #3f4245;
+  --ink-rgb: 63 66 69;
+  --surface: #d5d8d9;
+  --panel: #4f5256;
+  --panel-light: #5a5d61;
+  --line: rgba(255, 255, 255, 0.09);
+  --paper: #fafafa;
+  --steel: #a8abae;
+  --orange: #ff5a1f;
+  --orange-rgb: 255 90 31;
+  --orange-dim: #c4430f;
+  --orange-soft: rgba(255, 90, 31, 0.12);
+  --scope-line: rgba(255, 255, 255, 0.18);
+}

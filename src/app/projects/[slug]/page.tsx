@@ -39,13 +39,13 @@ export default function ProjectDetailPage({ params }: { params: { slug: string }
         <Container className="grid md:grid-cols-[1.3fr_1fr] gap-14">
           <div>
             <div className="eyebrow mb-4">Outcome</div>
-            <p className="text-paper text-lg leading-relaxed">{project.outcome}</p>
+            <p className="text-gray-900 text-lg leading-relaxed">{project.outcome}</p>
           </div>
           <div>
             <div className="eyebrow mb-4">Services delivered</div>
             <div className="flex flex-col gap-3">
               {project.services.map((s) => (
-                <div key={s} className="border-t border-line pt-3 text-steel text-sm">
+                <div key={s} className="border-t border-line pt-3 text-gray-900 text-sm">
                   {s}
                 </div>
               ))}

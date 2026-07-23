@@ -27,7 +27,7 @@ export default function ServicesPage() {
           </h1>
           <p className="text-steel max-w-[62ch] mt-5 text-[16px]">
             From the first schematic to the last piece of archived footage,
-            every engagement is delivered end-to-end by the same team — so
+            every engagement is delivered end-to-end by the same team, so
             accountability never gets lost between contractors.
           </p>
         </Container>

@@ -18,7 +18,7 @@ export default function ContactPage() {
             Request a site assessment
           </h1>
           <p className="text-steel max-w-[52ch] mt-5 text-[16px]">
-            Tell us about the site and current infrastructure — our technical
+            Tell us about the site and current infrastructure, our technical
             design team will follow up to scope a system.
           </p>
 

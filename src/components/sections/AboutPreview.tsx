@@ -15,7 +15,7 @@ export default function AboutPreview() {
           <p className="text-steel mt-4 max-w-[56ch]">
             Morubisi was established to build a market leader in surveillance.
             That work has grown from street-level CCTV into turnkey security
-            infrastructure for municipal, corporate and national clients — with
+            infrastructure for municipal, corporate and national clients, with
             more than 350 people now delivering it every day.
           </p>
           <div className="mt-8">
@@ -40,11 +40,11 @@ export default function AboutPreview() {
             },
             {
               t: "Mission",
-              d: "A client-first, integrated model — backed by continuous investment in people and technology — that raises the success rate in the fight against crime.",
+              d: "A client-first, integrated model, backed by continuous investment in people and technology, that raises the success rate in the fight against crime.",
             },
             {
               t: "Values",
-              d: "Delivery, integrity, honesty, loyalty, commitment, fairness — and fun. Skilled, empowered teams are what make the technology work.",
+              d: "Delivery, integrity, honesty, loyalty, commitment, fairness, and fun. Skilled, empowered teams are what make the technology work.",
             },
           ].map((pillar) => (
             <div key={pillar.t} className="border-t border-line py-6 first:pt-0">

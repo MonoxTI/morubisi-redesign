@@ -23,7 +23,7 @@ export default function ProjectsPage() {
           </h1>
           <p className="text-steel max-w-[62ch] mt-5 text-[16px]">
             By far the largest share of South Africa&rsquo;s street surveillance
-            market — a selection of the infrastructure we&rsquo;ve designed,
+            market, a selection of the infrastructure we&rsquo;ve designed,
             installed and now operate.
           </p>
         </Container>

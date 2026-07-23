@@ -20,8 +20,8 @@ export default function Services() {
               Eight disciplines, one system
             </h2>
             <p className=" max-w-[56ch] mt-2.5 text-gray-900">
-              Every engagement runs the same integrated pipeline — from initial
-              design through to evidence review — so accountability never gets
+              Every engagement runs the same integrated pipeline, from initial
+              design through to evidence review, so accountability never gets
               lost between contractors.
             </p>
           </div>

@@ -23,7 +23,7 @@ export default function AboutPage() {
             <p className="text-steel max-w-[62ch] mt-5 text-[16px]">
               Morubisi was established in {SITE.founded} to build a market leader in
               surveillance. That vision now stands as one of the largest players
-              in South Africa&rsquo;s street surveillance market — combining
+              in South Africa&rsquo;s street surveillance market, combining
               skilled people with cutting-edge technology to prevent and fight
               crime.
             </p>
@@ -47,7 +47,7 @@ export default function AboutPage() {
             <div className="eyebrow">Vision</div>
             <p className="text-paper text-lg mt-4 max-w-[48ch]">
               To be the leading provider of surveillance solutions in South
-              Africa, and to access and conquer international markets —
+              Africa, and to access and conquer international markets, 
               becoming one of the world&rsquo;s key players in the surveillance
               industry.
             </p>
@@ -69,7 +69,7 @@ export default function AboutPage() {
                 Values
               </div>
               <p className="text-steel text-[14.5px]">
-                Delivery, integrity, honesty, loyalty, commitment, fairness —
+                Delivery, integrity, honesty, loyalty, commitment, fairness,
                 and fun. We hold to equal opportunity and human capital
                 development, giving our people room to grow, because skilled,
                 empowered teams are what make the technology work.

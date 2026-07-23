@@ -33,7 +33,7 @@ export default function Hero() {
           </h1>
           <p className="text-steel max-w-[52ch] mb-8 text-[16px]">
             Morubisi designs, installs and operates surveillance infrastructure for
-            municipalities, ports, borders and corporate sites across South Africa —
+            municipalities, ports, borders and corporate sites across South Africa 
             backed by a 24/7 control room and a dedicated response unit.
           </p>
           <div className="flex flex-wrap gap-3.5 mb-11">
